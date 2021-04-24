@@ -1,4 +1,4 @@
-module github.com/AliceDiNunno/csl-env
+module github.com/carrot-systems/csl-env
 
 go 1.16
 
